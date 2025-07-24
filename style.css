@@ -1,0 +1,11 @@
+body{
+    background-color: #a8dadc;
+}
+
+div{
+    background-color:#fff;
+    box-shadow:0 0 15px rgba(0,0,0, 0.3);
+    margin:auto;
+    width:400px;
+    border-radius:5px;
+}
